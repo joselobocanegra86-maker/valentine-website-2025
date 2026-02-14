@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "¿Cuánto me amas?",                          // For the love meter
-            startText: "¡Tanto!",                                   // Text before the percentage
+            startText: "¿¡Tanto?",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
